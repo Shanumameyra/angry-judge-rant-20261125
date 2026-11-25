@@ -46,6 +46,12 @@
 - main.py written, run, then genuinely revised in a second edit
   (added local mirror + re-read self-check of the gate rules).
 - No old entry files read; built from the brief only.
+- GitHub repo creation hit the "too many repositories, too quickly"
+  rate limit: 6 failed attempts 05:14–05:39 UTC, created on attempt 7
+  at ~05:44 UTC (~30 min backoff), then pushed immediately.
+- Commit: a5e1845ed24bf0b142109e5288e4c55253e6fa2b (main)
+- Remote: https://github.com/Shanumameyra/angry-judge-rant-20261125
+- GitHub About: homepage = bounty URL, topic `makefun` — verified.
 - NOTE: the shared sandbox `/output/entry.txt` is also written by
   other parallel builders in this VM — the local mirror
   `output/entry.txt` in this repo is the authoritative verified copy.
